@@ -1,5 +1,5 @@
 from funcs import addition
 from funcs import subtraction
 
-addition()
-subtraction()
+print(addition())
+print(subtraction())
