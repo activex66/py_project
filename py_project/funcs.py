@@ -1,5 +1,8 @@
-a = 2 + 2
-print(a)
+def addition():
+    a = 2 + 2
+    print(a)
 
-b = 3 - 1
-print(b)
+
+def subtraction():
+    b = 3 - 1
+    print(b)
